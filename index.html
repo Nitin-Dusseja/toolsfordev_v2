@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0b0d10">
+  <meta name="description" content="A curated developer toolbox with UI resources, coding tools, AI tools, learning resources, jobs and inspiration.">
+  <title>ToolsForDev — Developer Toolbox</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="ToolsForDev home">
+      <span class="brand-mark">&lt;/&gt;</span>
+      <span>Tools<span>ForDev</span></span>
+    </a>
+    <div class="top-actions">
+      <button class="icon-btn" id="themeToggle" aria-label="Toggle theme" title="Toggle theme">☼</button>
+      <button class="mobile-menu" id="menuToggle" aria-label="Open menu">☰</button>
+    </div>
+  </header>
+
+  <aside class="sidebar" id="sidebar">
+    <div class="side-label">Explore</div>
+    <nav id="categoryNav"></nav>
+    <div class="sidebar-foot">
+      <button class="side-action" id="favoritesFilter">☆ <span>Favorites</span><b id="favCount">0</b></button>
+      <button class="side-action" id="allFilter">⌂ <span>All resources</span></button>
+    </div>
+  </aside>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-grid"></div>
+      <div class="eyebrow"><span class="status-dot"></span> Developer resource hub</div>
+      <h1>Everything developers<br><em>need, in one place.</em></h1>
+      <p>Curated links for design, frontend, AI, coding, learning, jobs, security and more.</p>
+      <div class="search-wrap">
+        <span class="search-icon">⌕</span>
+        <input id="searchInput" type="search" autocomplete="off" placeholder="Search tools, categories, websites..." aria-label="Search resources">
+        <kbd>⌘ K</kbd>
+      </div>
+      <div class="quick-stats">
+        <span><strong id="resourceCount">0</strong> resources</span>
+        <span>•</span>
+        <span><strong id="categoryCount">0</strong> categories</span>
+        <span>•</span>
+        <span>Free to explore</span>
+      </div>
+    </section>
+
+    <section class="content">
+      <div class="content-head">
+        <div>
+          <div class="section-kicker">LIBRARY</div>
+          <h2 id="resultsTitle">Developer resources</h2>
+        </div>
+        <div class="view-controls">
+          <button class="view-btn active" data-view="grid" title="Grid view">▦</button>
+          <button class="view-btn" data-view="list" title="List view">☷</button>
+        </div>
+      </div>
+      <div id="results" class="resource-grid"></div>
+      <div id="emptyState" class="empty-state" hidden>
+        <div>⌕</div><h3>No resources found</h3><p>Try another keyword or clear the category filter.</p>
+        <button id="clearSearch">Clear search</button>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div><span class="brand-mark small">&lt;/&gt;</span> ToolsForDev</div>
+    <span>Built for developers · Keep building.</span>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
