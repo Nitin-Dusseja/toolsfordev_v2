@@ -614,3 +614,130 @@ footer > div {
 @media(prefers-reduced-motion: reduce) {
   *, *:before, *:after { animation: none !important; scroll-behavior: auto !important; transition: none !important; }
 }
+
+/* Sidebar Nav Adjustments & Sub-menu Tree */
+#categoryNav {
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+  padding-right: 4px;
+}
+
+.nav-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2px;
+}
+
+.nav-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  padding: 8px 10px;
+  border-radius: 8px;
+  text-align: left;
+  font-size: 12.5px;
+  font-weight: 500;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.nav-item .nav-icon {
+  width: 18px;
+  text-align: center;
+  font-size: 14px;
+  flex-shrink: 0;
+}
+
+.nav-item .nav-text {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.nav-item small {
+  margin-left: auto;
+  color: var(--muted);
+  font: 10px "JetBrains Mono";
+  opacity: 0.7;
+}
+
+.nav-item .arrow-icon {
+  font-size: 14px;
+  line-height: 1;
+  transition: transform 0.2s ease;
+  margin-left: 4px;
+  color: var(--muted);
+}
+
+.nav-item:hover {
+  background: var(--panel);
+  color: var(--text);
+}
+
+.nav-item.active {
+  background: var(--panel2);
+  color: var(--accent);
+  border: 1px solid var(--line);
+}
+
+/* Sub-Menu Styles */
+.sub-menu {
+  display: none;
+  flex-direction: column;
+  padding-left: 18px;
+  margin: 2px 0 4px;
+  border-left: 1px solid var(--line);
+  margin-left: 18px;
+}
+
+.nav-group.open .sub-menu {
+  display: flex;
+}
+
+.nav-group.open .arrow-icon {
+  transform: rotate(90deg);
+  color: var(--accent);
+}
+
+.sub-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  padding: 6px 8px;
+  font-size: 11.5px;
+  border-radius: 6px;
+  text-align: left;
+  transition: color 0.15s ease, background 0.15s ease;
+  cursor: pointer;
+}
+
+.sub-item .sub-text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-right: 6px;
+}
+
+.sub-item small {
+  font: 10px "JetBrains Mono";
+  opacity: 0.6;
+}
+
+.sub-item:hover {
+  color: var(--text);
+  background: var(--panel);
+}
+
+.sub-item.active {
+  color: var(--accent);
+  font-weight: 600;
+  background: var(--panel2);
+}
