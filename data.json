@@ -1,0 +1,724 @@
+[
+  {
+    "title": "Design & UI Assets",
+    "groups": [
+      {
+        "title": "Backgrounds & Patterns",
+        "items": [
+          { "name": "bgjar.com", "url": "https://bgjar.com/", "note": "" },
+          { "name": "gradientmagic.com", "url": "https://www.gradientmagic.com/", "note": "" },
+          { "name": "fffuel.co", "url": "https://www.fffuel.co/", "note": "" },
+          { "name": "haikei.app", "url": "https://app.haikei.app/", "note": "" },
+          { "name": "pattern.monster", "url": "https://pattern.monster/", "note": "" },
+          { "name": "csshero.org/mesher", "url": "https://www.csshero.org/mesher/", "note": "" },
+          { "name": "heropatterns.com", "url": "https://heropatterns.com/?ref=uigoodies.com", "note": "Svg background" },
+          { "name": "svgwave.in", "url": "https://svgwave.in/?ref=uigoodies.com", "note": "Svg Shapes and tools" },
+          { "name": "spectrums.framer.website", "url": "https://spectrums.framer.website/?ref=uigoodies.com", "note": "Svg Shapes" },
+          { "name": "Pattern Craft", "url": "https://patterncraft.store/", "note": "Professional-grade background patterns and gradients for your websites and apps" },
+          { "name": "Aura gradients", "url": "https://auragradients.vercel.app/", "note": "200+ layered, atmospheric gradients built from soft blend modes" }
+        ]
+      },
+      {
+        "title": "Icons & Emojis",
+        "items": [
+          { "name": "iconer.app", "url": "https://iconer.app/", "note": "" },
+          { "name": "svgrepo.com", "url": "https://www.svgrepo.com/", "note": "" },
+          { "name": "feathericons.com", "url": "https://feathericons.com/", "note": "" },
+          { "name": "Ray.so/icon", "url": "https://ray.so/icon", "note": "" },
+          { "name": "iconoir.com", "url": "https://iconoir.com/", "note": "" },
+          { "name": "lordicon.com", "url": "https://lordicon.com/", "note": "" },
+          { "name": "CSS.GG", "url": "https://css.gg/", "note": "" },
+          { "name": "icon8.com", "url": "https://icons8.com/", "note": "" },
+          { "name": "flaticon.com", "url": "https://www.flaticon.com/", "note": "" },
+          { "name": "iconify.design", "url": "https://iconify.design/", "note": "" },
+          { "name": "svgbackgrounds.com", "url": "https://www.svgbackgrounds.com/", "note": "" },
+          { "name": "animatedicons.co", "url": "https://animatedicons.co/", "note": "" },
+          { "name": "unicornicons", "url": "https://unicornicons.com/", "note": "" },
+          { "name": "3dicons.co", "url": "https://3dicons.co/", "note": "" },
+          { "name": "useanimations.com", "url": "https://useanimations.com/#explore", "note": "" },
+          { "name": "finsweet.com", "url": "https://finsweet.com/lottieflow", "note": "" },
+          { "name": "cssicon.space", "url": "https://cssicon.space/#/", "note": "" },
+          { "name": "thiings.co", "url": "https://www.thiings.co/things", "note": "3D Icons" },
+          { "name": "ikonate.com", "url": "https://ikonate.com/", "note": "Icons" },
+          { "name": "icons.pqoqubbw.dev", "url": "https://icons.pqoqubbw.dev/", "note": "Icons" },
+          { "name": "themify.me", "url": "https://themify.me/themify-icons", "note": "Themify icons" },
+          { "name": "Lucide", "url": "https://lucide.dev/", "note": "Beautiful & consistent icon toolkit made by the community" },
+          { "name": "Simple Icons", "url": "https://simpleicons.org/", "note": "Free SVG icons for popular brands. 3000+ icons, public domain, no signup." },
+          { "name": "Phosphor Icons", "url": "https://ionic.io/ionicons", "note": "The homepage of Phosphor Icons, a flexible icon family for everyone" },
+          { "name": "Remix Icons", "url": "https://remixicon.com/", "note": "Open source neutral style icon system" },
+          { "name": "heroicons", "url": "https://heroicons.com/", "note": "A set of free MIT-licensed high-quality SVG icons for UI development." },
+          { "name": "Tabler Icons", "url": "https://tabler.io/icons", "note": "A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects." },
+          { "name": "selfh.st Icons", "url": "https://selfh.st/icons/", "note": "Dashboard Icons provided by selfh.st" },
+          { "name": "Dashboard Icons", "url": "https://dashboardicons.com/", "note": "A collection of over 1800 curated icons for services, applications and tools, designed specifically for dashboards and app directories" },
+          { "name": "TheSVG", "url": "https://thesvg.org/", "note": "6,100+ SVG icons. Brands, AWS, Azure, GCP, and more. Search, copy, ship." },
+          { "name": "googlefonts.github.io", "url": "https://googlefonts.github.io/noto-emoji-animation/", "note": "" },
+          { "name": "animated-fluent-emoji.vercel", "url": "https://animated-fluent-emoji.vercel.app/", "note": "" },
+          { "name": "OpenMoji", "url": "https://openmoji.org/library/", "note": "Open source emojis for designers, developers and everyone else!" }
+        ]
+      },
+      {
+        "title": "Fonts & Typography",
+        "items": [
+          { "name": "fonts.google.com", "url": "https://fonts.google.com/", "note": "" },
+          { "name": "befonts.com", "url": "https://befonts.com/", "note": "" },
+          { "name": "fontain.org", "url": "https://fontain.org/", "note": "" },
+          { "name": "1001fonts.com", "url": "https://www.1001fonts.com/", "note": "" },
+          { "name": "dafont.com", "url": "https://www.dafont.com/", "note": "" },
+          { "name": "myfonts.com", "url": "https://www.myfonts.com/", "note": "" },
+          { "name": "fontshare.com", "url": "https://www.fontshare.com/", "note": "" },
+          { "name": "fontfabric.com", "url": "https://www.fontfabric.com/", "note": "" },
+          { "name": "fontsquirrel.com", "url": "https://www.fontsquirrel.com/", "note": "" },
+          { "name": "fontspace.com", "url": "https://www.fontspace.com/", "note": "" },
+          { "name": "urbanfonts.com", "url": "https://www.urbanfonts.com/", "note": "" },
+          { "name": "fontpair.co", "url": "https://www.fontpair.co/", "note": "" },
+          { "name": "uncut.wtf", "url": "https://uncut.wtf/", "note": "" },
+          { "name": "collletttivo.it", "url": "https://www.collletttivo.it/", "note": "" },
+          { "name": "fontjoy.com", "url": "https://fontjoy.com/", "note": "Font pairing tool" },
+          { "name": "fontesk.com", "url": "https://fontesk.com/", "note": "Free fonts" },
+          { "name": "Glyphr Studio", "url": "https://www.glyphrstudio.com/", "note": "Font editor, made for hobbyists and typeface design beginners" },
+          { "name": "Keyfont", "url": "https://keypdf.net/keyfont", "note": "Convert and inspect fonts locally in your browser" }
+        ]
+      },
+      {
+        "title": "Illustrations & Graphics",
+        "items": [
+          { "name": "storyset.com", "url": "https://storyset.com/", "note": "" },
+          { "name": "iradesign.io", "url": "https://iradesign.io/", "note": "" },
+          { "name": "drawkit.com", "url": "https://www.drawkit.com/", "note": "" },
+          { "name": "openpeeps.com", "url": "https://www.openpeeps.com/", "note": "" },
+          { "name": "lottiefiles.com", "url": "https://lottiefiles.com/", "note": "" },
+          { "name": "humaaans.com", "url": "https://www.humaaans.com/", "note": "" },
+          { "name": "pixels.market", "url": "https://pixels.market/", "note": "" },
+          { "name": "getavataaars.com", "url": "https://getavataaars.com/", "note": "" },
+          { "name": "beanheads", "url": "https://beanheads.robertbroersma.com/", "note": "Illustration library" },
+          { "name": "freeillustrations.xyz", "url": "https://freeillustrations.xyz/", "note": "Free vector illustrations" },
+          { "name": "handyarrows.com", "url": "https://handyarrows.com/?ref=uigoodies.com", "note": "Hand-drawn SVG arrows" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Frontend Components & Styling",
+    "groups": [
+      {
+        "title": "UI Components & Snippets",
+        "items": [
+          { "name": "magicui.design", "url": "https://magicui.design/", "note": "" },
+          { "name": "uiverse.io", "url": "https://uiverse.io/", "note": "" },
+          { "name": "app.ui-snippets.com", "url": "https://app.ui-snippets.com/", "note": "" },
+          { "name": "cssbuttons.app", "url": "https://cssbuttons.app/", "note": "" },
+          { "name": "freefrontend.com", "url": "https://freefrontend.com/", "note": "" },
+          { "name": "ui-layouts.com", "url": "https://www.ui-layouts.com/", "note": "" },
+          { "name": "cssgridgenerator.io", "url": "https://cssgridgenerator.io/", "note": "" },
+          { "name": "flexboxlabs.netlify.app", "url": "https://flexboxlabs.netlify.app/", "note": "" },
+          { "name": "buttons.cool", "url": "https://www.buttons.cool/", "note": "Button CSS components" },
+          { "name": "toggles.dev", "url": "https://toggles.dev/", "note": "Dark mode toggle buttons" },
+          { "name": "fancycomponents.dev", "url": "https://www.fancycomponents.dev/", "note": "UI components" },
+          { "name": "Component Gallery", "url": "https://component.gallery/", "note": "The Component Gallery is a collection of components from the best Design Systems." },
+          { "name": "Design Systems Checklist", "url": "https://designsystemchecklist.com/", "note": "checklist to help you plan, build and grow your design system" }
+        ]
+      },
+      {
+        "title": "React & UI Libraries",
+        "items": [
+          { "name": "blueprintjs.com", "url": "https://blueprintjs.com/", "note": "" },
+          { "name": "reacthaiku.dev", "url": "https://www.reacthaiku.dev/", "note": "" },
+          { "name": "ui.aceternity.com", "url": "https://ui.aceternity.com/", "note": "" },
+          { "name": "daisyui.com", "url": "https://daisyui.com/", "note": "" },
+          { "name": "getjustd.com", "url": "https://getjustd.com/", "note": "" },
+          { "name": "motion-primitives.com", "url": "https://motion-primitives.com/", "note": "" },
+          { "name": "reactbits.dev", "url": "https://www.reactbits.dev/", "note": "" },
+          { "name": "shadcn-form.com", "url": "https://www.shadcn-form.com/", "note": "" },
+          { "name": "flyonui.com", "url": "https://flyonui.com/", "note": "" },
+          { "name": "park-ui.com", "url": "https://park-ui.com/", "note": "" },
+          { "name": "swapy.tahazsh.com", "url": "https://swapy.tahazsh.com/", "note": "" },
+          { "name": "playcanvas-react.vercel.app", "url": "https://playcanvas-react.vercel.app/docs", "note": "" },
+          { "name": "animata.design", "url": "https://animata.design/", "note": "Animations in React" },
+          { "name": "cult-ui.com", "url": "https://www.cult-ui.com/", "note": "UI Library" },
+          { "name": "echarts.apache.org", "url": "https://echarts.apache.org/en/index.html", "note": "Data visualization charts" },
+          { "name": "react-leaflet.js.org", "url": "https://react-leaflet.js.org/", "note": "Maps component" },
+          { "name": "Amicro", "url": "https://amicro.vercel.app/", "note": "A curated library of premium React micro-interactions and transition components powered by Motion." }
+        ]
+      },
+      {
+        "title": "CSS Effects & Loaders",
+        "items": [
+          { "name": "shadows.brumm.af", "url": "https://shadows.brumm.af/", "note": "" },
+          { "name": "neumorphism.io", "url": "https://neumorphism.io/#e0e0e0", "note": "" },
+          { "name": "bennettfeely.com", "url": "https://bennettfeely.com/clippy/", "note": "" },
+          { "name": "hype4.academy", "url": "https://hype4.academy/tools/glassmorphism-generator", "note": "" },
+          { "name": "cssloaders.github.io", "url": "https://cssloaders.github.io/", "note": "" },
+          { "name": "css-loaders.com", "url": "https://css-loaders.com/", "note": "" },
+          { "name": "whirl.netlify.app", "url": "https://whirl.netlify.app/", "note": "" },
+          { "name": "uiball.com/ldrs", "url": "https://uiball.com/ldrs/", "note": "" },
+          { "name": "loading.io", "url": "https://loading.io/", "note": "" },
+          { "name": "loadership.com", "url": "https://www.loadership.com/", "note": "" },
+          { "name": "BezierMotion", "url": "https://tughloks.github.io/BezierMotion/", "note": "A visual cubic-bezier curve editor for crafting custom CSS easing functions" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Animations & Motion Graphics",
+    "groups": [
+      {
+        "title": "SVG & CSS Animations",
+        "items": [
+          { "name": "maxwellito", "url": "https://maxwellito.github.io/vivus/", "note": "" },
+          { "name": "transition.style", "url": "https://www.transition.style/#in:custom:circle-swoop", "note": "" },
+          { "name": "keyframes.app", "url": "https://keyframes.app/animate", "note": "" },
+          { "name": "animista.net", "url": "https://animista.net/", "note": "" },
+          { "name": "easingwizard.com", "url": "https://easingwizard.com/", "note": "CSS Animations" }
+        ]
+      },
+      {
+        "title": "Animation Libraries & Backgrounds",
+        "items": [
+          { "name": "loading.io/background", "url": "https://loading.io/background", "note": "" },
+          { "name": "vantajs.com", "url": "https://www.vantajs.com/?effect=birds", "note": "" },
+          { "name": "rombo.co", "url": "https://rombo.co/", "note": "" },
+          { "name": "GSAP", "url": "https://gsap.com/", "note": "" },
+          { "name": "animejs.com", "url": "https://animejs.com/", "note": "" },
+          { "name": "glidejs.com", "url": "https://glidejs.com/", "note": "ES6 slider & carousel" },
+          { "name": "simpleparallax.com", "url": "https://simpleparallax.com/", "note": "Parallax effect library" },
+          { "name": "pressurejs.com", "url": "https://pressurejs.com/", "note": "Handling Force Touch & 3D Touch" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Development & Coding Tools",
+    "groups": [
+      {
+        "title": "Code Editors & IDEs",
+        "items": [
+          { "name": "Visual Studio Code for the Web", "url": "https://vscode.dev/", "note": "provides a free, zero-install Microsoft Visual Studio Code experience running entirely in your browser" },
+          { "name": "JS Bin", "url": "https://jsbin.com", "note": "Collaborative JavaScript Debugging App" },
+          { "name": "DartPad", "url": "https://dartpad.dev", "note": "An online Dart editor with support for console, web, and Flutter apps." },
+          { "name": "PyNote", "url": "https://pynote-notebook.vercel.app/", "note": "A serverless, zero-setup Python notebook environment" },
+          { "name": "ASM Editor", "url": "https://asm-editor.specy.app", "note": "A web editor to write, run and learn assembly code" },
+          { "name": "Godot Web", "url": "https://editor.godotengine.org/releases/latest/", "note": "Provides a zero-install Godot enviroment that runs entirely in your browser." }
+        ]
+      },
+      {
+        "title": "API, Database & System Tools",
+        "items": [
+          { "name": "hoppscotch", "url": "https://hoppscotch.io/", "note": "Open-Source API Development Ecosystem. Alternative to Postman, Insomnia" },
+          { "name": "freepublicapis.com", "url": "https://www.freepublicapis.com/", "note": "Free APIs for testing" },
+          { "name": "freeapi.app", "url": "https://freeapi.app/", "note": "API playground" },
+          { "name": "jsoncrack.com", "url": "https://jsoncrack.com/editor", "note": "" },
+          { "name": "Sqlime", "url": "https://sqlime.org/", "note": "Online SQLite playground" },
+          { "name": "drawDB", "url": "https://www.drawdb.app", "note": "Free, simple, and intuitive online database diagram editor and SQL generator" },
+          { "name": "Schema3D", "url": "https://schema3d.com/", "note": "An interactive tool for visualizing relational database schemas in 3D." },
+          { "name": "DBView", "url": "https://dbview.pages.dev/", "note": "DDL into interactive entity-relationship diagrams instantly" },
+          { "name": "SQLChef", "url": "https://jonathanwalker.github.io/SQLChef/", "note": "Query files like CSV, JSON, and Parquet directly in the browser" }
+        ]
+      },
+      {
+        "title": "Parsers, Compilers & Low-Level Dev Tools",
+        "items": [
+          { "name": "AST explorer", "url": "https://astexplorer.net/", "note": "A web tool to explore the ASTs generated by various parsers." },
+          { "name": "Transform", "url": "https://transform.tools/", "note": "A polyglot web converter" },
+          { "name": "Bundlephobia", "url": "https://bundlephobia.com/", "note": "Find out the cost of adding a new frontend dependency to your project" },
+          { "name": "RegExr", "url": "https://regexr.com/", "note": "HTML/JS based tool for creating, testing, and learning about Regular Expressions" },
+          { "name": "explainshell.com", "url": "https://explainshell.com/", "note": "Match command-line arguments to their help text" },
+          { "name": "Tokeko", "url": "https://tokeko.specy.app/", "note": "An online creation tool for LALR and LR(1) parsers" },
+          { "name": "Online Maven Download Tool", "url": "https://maven-tools.mohants.com/", "note": "Download Maven JAR dependencies and transitive dependencies as ZIP" },
+          { "name": "VeriSim", "url": "https://senolgulgonul.github.io/verisim/", "note": "Verilog simulator built by compiling Icarus Verilog to WebAssembly" },
+          { "name": "KiCanvas", "url": "https://kicanvas.org/", "note": "An interactive browser-based viewer for KiCad schematics and PCB boards." },
+          { "name": "CircuitJS1", "url": "https://www.falstad.com/circuit/", "note": "A browser-based electronic circuit simulator" },
+          { "name": "Gately", "url": "https://www.gately.dev/", "note": "Simple and modern web-based logic gate simulator" },
+          { "name": "ROOC Optimization", "url": "https://rooc.specy.app/", "note": "A web platform for modelling and solving linear optimization problems" },
+          { "name": "OpenCode Config Builder", "url": "https://openconfig.mikescave.us", "note": "Configuration builder/editor for opencode." }
+        ]
+      },
+  {
+        "title": "Developer Utilities & Toolkits",
+        "items": [
+          { "name": "IT-Tools", "url": "https://it-tools.tech/", "note": "Collection of handy online tools for developers, with great UX" },
+          { "name": "omatsuri.app", "url": "https://omatsuri.app/", "note": "Frontend developer tools" },
+          { "name": "Scratch Tabs", "url": "https://app.scratchtabs.com/", "note": "A huge, searchable collection of 200+ local-first developer tools" },
+          { "name": "Online tools", "url": "https://emn178.github.io/online-tools/", "note": "Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions" },
+          { "name": "delphitools", "url": "https://delphi.tools/", "note": "A collection of small, low stakes and low effort tools" },
+          { "name": "codeium.com", "url": "https://codeium.com/", "note": "AI Code Completion" },
+          { "name": "Debug Visualizer", "url": "https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer", "note": "VS Code Extension" },
+          { "name": "carbon", "url": "https://carbon.now.sh/", "note": "Create and share beautiful images of your source code" },
+          { "name": "ray.so", "url": "https://ray.so/", "note": "Convert code img" },
+          { "name": "gists.sh", "url": "https://gists.sh/", "note": "GitHub Gists sharing tool" },
+          { "name": "rapidtags.io", "url": "https://rapidtags.io/", "note": "Meta Tags Generator" },
+          { "name": "FaviconAPI", "url": "https://faviconapi.com", "note": "Get the highest resolution favicon for any domain" },
+          { "name": "Unicon", "url": "https://unicon-tool.vercel.app/", "note": "Convert any Unicode symbol, emoji, or glyph into a custom favicon" },
+          { "name": "Log Voyager", "url": "https://www.logvoyager.cc/", "note": "Analyze huge log files (10GB+)" }
+        ]
+      },
+      {
+        "title": "GitHub & Open Source Ecosystem",
+        "items": [
+          { "name": "Full-Stack", "url": "https://github.com/topics/full-stack-web-development", "note": "Projects" },
+          { "name": "developer-portfolios", "url": "https://github.com/emmabostian/developer-portfolios?tab=readme-ov-file", "note": "Portfolios" },
+          { "name": "forgoodfirstissue", "url": "https://forgoodfirstissue.github.com/", "note": "Good first issue repos" },
+          { "name": "GitFut", "url": "https://gitfut.com/", "note": "Your GitHub, rated out of 99" },
+          { "name": "CheckMyGit", "url": "https://checkmygit.com/", "note": "Transform any GitHub profile into a stunning portfolio in seconds." },
+          { "name": "GitReverse", "url": "https://www.gitreverse.com/", "note": "Reverse engineer any repo into it's original prompt" },
+          { "name": "CodeMap AI", "url": "https://code-map-ai-mu.vercel.app/", "note": "Helps developers understand large repositories faster" },
+          { "name": "CodeGraphContext (CGC)", "url": "https://cgc.codes/explore", "note": "Indexes local code into a graph database to provide context to AI assistants" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "AI Tools & Generators",
+    "groups": [
+      {
+        "title": "AI Code Generators & Assistants",
+        "items": [
+          { "name": "v0.dev", "url": "https://v0.dev/", "note": "" },
+          { "name": "a0.dev", "url": "https://a0.dev/", "note": "" },
+          { "name": "bolt.new", "url": "https://bolt.new/", "note": "" },
+          { "name": "rollout.site", "url": "https://rollout.site/", "note": "" },
+          { "name": "cerebrascode", "url": "https://cerebrascoder.com/", "note": "" },
+          { "name": "llamacoder.together.ai", "url": "https://llamacoder.together.ai/", "note": "" },
+          { "name": "phind.com", "url": "https://www.phind.com/search?home=true", "note": "" },
+          { "name": "dyad.sh", "url": "https://dyad.sh/", "note": "AI Code Editor" },
+          { "name": "WebLLM", "url": "https://webllm.mlc.ai/", "note": "High-performance In-browser LLM Inference Engine" },
+          { "name": "Sipp Chat", "url": "https://chat.sipp.sh/", "note": "Zero-dependency WebGPU runtime to run GGUF models directly in browser" },
+          { "name": "Forge", "url": "https://modelplayground.dev", "note": "Use AI models right now, for free and privately" }
+        ]
+      },
+      {
+        "title": "AI Research, Study & Productivity",
+        "items": [
+          { "name": "notebooklm.google.com", "url": "https://notebooklm.google.com/?pli=1", "note": "help in study" },
+          { "name": "notegpt.io", "url": "https://notegpt.io/", "note": "help in study" },
+          { "name": "you.com", "url": "https://you.com/", "note": "Research tool" },
+          { "name": "explorer.globe.engineer", "url": "https://explorer.globe.engineer/", "note": "Research tool" },
+          { "name": "dorkgpt.com", "url": "https://www.dorkgpt.com/", "note": "help in Google Search" },
+          { "name": "magicloops.dev", "url": "https://magicloops.dev/", "note": "Automation with AI" },
+          { "name": "huggingface.co", "url": "https://huggingface.co/", "note": "AI models & hub" },
+          { "name": "higgsfield.ai", "url": "https://higgsfield.ai/", "note": "AI video & image prompts" },
+          { "name": "OSIRIS", "url": "https://www.osirisai.live/", "note": "Open Source Palantir Alternative" },
+          { "name": "EditorPilot", "url": "https://editorpilot.com/", "note": "AI writing assistant that lives entirely in your browser" }
+        ]
+      },
+      {
+        "title": "AI Directories",
+        "items": [
+          { "name": "aixploria.com", "url": "https://www.aixploria.com/en/", "note": "All AI Tools" },
+          { "name": "theresanaiforthat", "url": "https://theresanaiforthat.com/", "note": "All AI Tools" },
+          { "name": "futuretools.io", "url": "https://www.futuretools.io/", "note": "All Tools" },
+          { "name": "aitoolsdirectory.com", "url": "https://aitoolsdirectory.com/", "note": "All Tools" },
+          { "name": "bestofai.com", "url": "https://bestofai.com/", "note": "Curated AI directory" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Design Editors & Multimedia Tools",
+    "groups": [
+      {
+        "title": "2D, 3D & Vector Design Editors",
+        "items": [
+          { "name": "Graphite", "url": "https://editor.graphite.rs", "note": "2D graphics design application powered by node-based engine" },
+          { "name": "SVG-Edit", "url": "https://svgedit.netlify.app/index.html", "note": "Powerful SVG-Editor for your browser" },
+          { "name": "Method Draw", "url": "https://editor.method.ac", "note": "Simple and easy-to-use SVG editor experience" },
+          { "name": "GodSVG", "url": "https://www.godsvg.com/editor/", "note": "Structured SVG editor" },
+          { "name": "SvgPathEditor", "url": "https://yqnn.github.io/svg-path-editor/", "note": "Online editor to create and manipulate SVG paths" },
+          { "name": "SVGOMG", "url": "https://jakearchibald.github.io/svgomg/", "note": "Shrink SVG sizes dramatically" },
+          { "name": "Piskel", "url": "https://www.piskelapp.com", "note": "Easy-to-use sprite editor for pixel-art and animations" },
+          { "name": "JSPaint", "url": "https://jspaint.app", "note": "Classic MS Paint REVIVED" },
+          { "name": "PixelCraft", "url": "https://pixelcraft.web.app", "note": "Pixel Art & Animation Creation Tool" },
+          { "name": "Pixelorama", "url": "https://orama-interactive.itch.io/pixelorama", "note": "Create pixel art in your browser" },
+          { "name": "Klecks", "url": "https://kleki.com/", "note": "Modern and feature-rich painting app for the web" },
+          { "name": "Blockbench", "url": "https://web.blockbench.net/", "note": "A low poly 3D model editor" },
+          { "name": "Vecto3d", "url": "https://vecto3d.app/", "note": "Convert your SVG's to 3D models" },
+          { "name": "Avnac", "url": "https://avnac.design/", "note": "Design editor for posters, layouts, and social graphics" }
+        ]
+      },
+      {
+        "title": "Diagrams, Flowcharts & Whiteboarding",
+        "items": [
+          { "name": "app.eraser.io", "url": "https://app.eraser.io/dashboard/all", "note": "" },
+          { "name": "excalidraw.com", "url": "https://excalidraw.com/", "note": "" },
+          { "name": "tldraw.com", "url": "https://www.tldraw.com/", "note": "" },
+          { "name": "lucid.app", "url": "https://lucid.app/documents#/documents?folder_id=recent", "note": "" },
+          { "name": "draw.io", "url": "https://www.drawio.com/", "note": "Browser-based diagramming and whiteboarding tool" },
+          { "name": "DrawShare", "url": "https://shravangoswami.com/DrawShare/", "note": "Collaborative whiteboard for drawing and note-taking" },
+          { "name": "flowchart.fun", "url": "https://flowchart.fun/", "note": "Easily generate flowcharts and diagrams from text" },
+          { "name": "Mermaid Live", "url": "https://mermaid.live", "note": "Edit, preview and share mermaid charts" },
+          { "name": "Mermify", "url": "https://tra-sco.github.io/mermify/", "note": "Bi-directional visual editor for Mermaid.js flowcharts" },
+          { "name": "Kroki", "url": "https://kroki.io/#try", "note": "Diagram rendering service using Mermaid, PlantUML, Graphviz, etc." },
+          { "name": "Niolesk", "url": "niolesk.top", "note": "Edit diagrams from textual descriptions!" },
+          { "name": "Markmap", "url": "https://markmap.js.org/", "note": "Creates interactive mind maps from Markdown" },
+          { "name": "asciiflow.com", "url": "https://asciiflow.com/#/", "note": "ASCII diagram editor" },
+          { "name": "Word Aligner", "url": "https://aligner.tinygods.dev", "note": "Link words across a translation, then export the diagram." }
+        ]
+      },
+      {
+        "title": "Image & Graphic Tools",
+        "items": [
+          { "name": "pngmaker.ai", "url": "https://pngmaker.ai/", "note": "" },
+          { "name": "pngmaker.io", "url": "https://pngmaker.io/", "note": "" },
+          { "name": "picsvg", "url": "https://picsvg.com//", "note": "" },
+          { "name": "upscale.media", "url": "https://www.upscale.media/", "note": "Upscale Img Quality" },
+          { "name": "fotor", "url": "https://www.fotor.com/", "note": "Tools" },
+          { "name": "pixelcut.ai", "url": "https://www.pixelcut.ai/", "note": "AI Tools" },
+          { "name": "gentype", "url": "https://labs.google/gentype", "note": "alphabets img generator" },
+          { "name": "waifu2x.net", "url": "https://www.waifu2x.net/", "note": "Image upscaler" },
+          { "name": "Squoosh", "url": "https://squoosh.app/", "note": "Image compression web app" },
+          { "name": "MiNi PhotoEditor", "url": "https://mini2-photo-editor.netlify.app/", "note": "Online webgl photo editor" },
+          { "name": "ClearCanvas AI", "url": "https://clearcanvasai.vercel.app/", "note": "Generate, compress, upscale pictures, and remove backgrounds" },
+          { "name": "ToolsForImage", "url": "https://toolsforimage.com/", "note": "Suite of image processing tools" },
+          { "name": "Screenshot Studio", "url": "https://www.screenshot-studio.com/", "note": "Browser-based screenshot editor" },
+          { "name": "Phosphor-Cam", "url": "https://phosphor-cam.vercel.app/", "note": "Real-time ASCII art camera" },
+          { "name": "Image to UnicodeASCII Generator", "url": "https://reactorcore.itch.io/image-to-unicodeascii-generator", "note": "Transform image into ASCII/Unicode art" },
+          { "name": "dither", "url": "https://dither.fuego.im/", "note": "Pixel-perfect dithering utility" },
+          { "name": "ShadeStudio", "url": "https://laura.media/shade-studio/", "note": "Create color palette from base color" },
+          { "name": "ColorKit", "url": "https://colorskit.vercel.app/", "note": "Feature-rich color picker and analysis tool" },
+          { "name": "VoidMesh", "url": "https://voidmesh.xyz/", "note": "Local image and video filters with shaders" },
+          { "name": "zoxilsi studio", "url": "https://studio.zoxilsi.cc/", "note": "Design organic gradients in real-time WebGL" },
+          { "name": "Studio", "url": "https://studio.neato.fun/", "note": "Generative art tools" },
+          { "name": "Fluid", "url": "https://fluid.krackeddevs.com/", "note": "WebGL studio for generative backgrounds" },
+          { "name": "OpenMosh", "url": "https://open-mosh.vercel.app/", "note": "Datamosh photos/videos with glitch effects" },
+          { "name": "Darkly.Art", "url": "https://darkly.art/", "note": "Entropic Editor for Artists" },
+          { "name": "MakeGirlsMoe", "url": "https://make.girls.moe", "note": "Create Anime Characters" },
+          { "name": "TerraInk", "url": "https://terraink.app/", "note": "Cartographic poster engine" },
+          { "name": "Planar", "url": "https://planar.masn.studio", "note": "Scale, crop, and tile images for exact printing" },
+          { "name": "Image Max URL", "url": "https://qsniyg.github.io/maxurl/", "note": "Finds original versions of images and videos" }
+        ]
+      },
+        {
+        "title": "Audio & Video Editing",
+        "items": [
+          { "name": "OpenCut", "url": "https://opencut.app", "note": "The open-source CapCut alternative" },
+          { "name": "OpenReel", "url": "https://openreel.video/", "note": "Open source CapCut alternative" },
+          { "name": "FreeCut", "url": "https://freecut.net", "note": "Professional video editing in browser" },
+          { "name": "OmniClip", "url": "https://omniclip.app/", "note": "Powerful video editor right in your browser" },
+          { "name": "s-2-v", "url": "https://s-2-v.pages.dev/", "note": "Video processing tools" },
+          { "name": "Compress", "url": "https://videocompress.prolab.sh/", "note": "Crush video sizes by 90% offline" },
+          { "name": "FFmpeg CLI Online", "url": "https://ffmpeg.wide.video", "note": "Run ffmpeg in browser terminal" },
+          { "name": "ffmpeg.wasm", "url": "https://ffmpegwasm.netlify.app/playground", "note": "FFmpeg powered by WebAssembly" },
+          { "name": "SubtitleEdit", "url": "https://www.nikse.dk/subtitleedit/online", "note": "Online Subtitle Editor" },
+          { "name": "AudioMass", "url": "https://audiomass.co/", "note": "Web-based audio & waveform editor" },
+          { "name": "Wavacity", "url": "https://wavacity.com/", "note": "Multi-track audio editor and recorder" },
+          { "name": "openDAW", "url": "https://opendaw.studio/", "note": "Web-based Digital Audio Workstation (DAW)" },
+          { "name": "ComposeYogi", "url": "https://composeyogi.com/", "note": "Ableton-style music composer" },
+          { "name": "Drumhaus", "url": "https://drumha.us/", "note": "Computer Controlled Rhythmic Groove Machine" },
+          { "name": "GreenDolphin", "url": "https://greendolph.in", "note": "Recording looper and music transcription tool" },
+          { "name": "Midee", "url": "https://midee.app/", "note": "Export MIDI music as piano-roll videos" },
+          { "name": "freesound.org", "url": "https://freesound.org/", "note": "Audio samples & sound effects" },
+          { "name": "Cobalt", "url": "https://cobalt.tools/", "note": "Ad-free media downloader" },
+          { "name": "steptodown.com", "url": "https://steptodown.com/", "note": "Downloader" },
+          { "name": "fileszero.com", "url": "https://fileszero.com/", "note": "Video player tool" },
+          { "name": "NoSuggest", "url": "https://nosuggest.com", "note": "Distraction free YouTube client" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Document & Writing Utilities",
+    "groups": [
+      {
+        "title": "PDF & Document Processing",
+        "items": [
+          { "name": "sejda", "url": "https://www.sejda.com/", "note": "" },
+          { "name": "tinywow", "url": "https://tinywow.com/", "note": "" },
+          { "name": "iconictoolshub.com", "url": "https://iconictoolshub.com/", "note": "PDF Tool" },
+          { "name": "stirlingpdf.io", "url": "https://stirlingpdf.io/?lang=en_US", "note": "PDF Tools" },
+          { "name": "Stirling-PDF", "url": "https://stirling.com/app", "note": "#1 PDF Application on GitHub" },
+          { "name": "BentoPDF", "url": "https://www.bentopdf.com/", "note": "Privacy-first client-side PDF toolkit" },
+          { "name": "PaperKnife", "url": "https://potatameister.github.io/PaperKnife/", "note": "Merge, split, compress, and edit PDFs locally" },
+          { "name": "EditoraPDF", "url": "https://editorapdf.com", "note": "A minimal PDF tool" },
+          { "name": "PDFme", "url": "https://playground.pdfme.com/", "note": "Template designer, PDF viewer, and generator" },
+          { "name": "lookscanned", "url": "https://lookscanned.io", "note": "Turn PDFs into realistic scanned copies locally" },
+          { "name": "Pandoc WASM", "url": "https://pandoc.github.io/pandoc-wasm/", "note": "Convert documents in browser" },
+          { "name": "VERT", "url": "https://vert.sh/", "note": "File-converter fully in-browser" },
+          { "name": "Convert To It", "url": "http://convert.to.it/", "note": "Universal online file converter" },
+          { "name": "vertex42.com", "url": "https://www.vertex42.com/", "note": "Excel & Invoice Templates" }
+        ]
+      },
+      {
+        "title": "Markdown, Notes & Office Apps",
+        "items": [
+          { "name": "Browserpad", "url": "https://browserpad.org", "note": "Plain text editor in the browser." },
+          { "name": "Markdown Live Preview", "url": "https://markdownlivepreview.com", "note": "Markdown editor with live preview" },
+          { "name": "Dillinger", "url": "https://dillinger.io", "note": "Markdown editor" },
+          { "name": "StackEdit", "url": "https://stackedit.io", "note": "Full-featured markdown editor" },
+          { "name": "markdown2pdf", "url": "https://markdown2pdfconverter.vercel.app/", "note": "Markdown to PDF converter & previewer" },
+          { "name": "Notepad PWA", "url": "https://notepad.js.org", "note": "Offline capable Notepad PWA" },
+          { "name": "GoatPad", "url": "https://goatpad.drexfall.com/", "note": "Notepad written in Flutter" },
+          { "name": "Postbaby", "url": "https://postbaby.org/", "note": "Quick post-it note board" },
+          { "name": "Strong Editor", "url": "https://strongeditor.com/", "note": "Text editor highlighting poor wording in real-time" },
+          { "name": "dDocs", "url": "https://ddocs.new/", "note": "Encrypted alternative to Google Docs" },
+          { "name": "CryptPad", "url": "https://cryptpad.fr", "note": "Encrypted open-source collaborative office suite" },
+          { "name": "Grist", "url": "https://docs.getgrist.com", "note": "Relational spreadsheet database" },
+          { "name": "EtherCalc", "url": "https://ethercalc.net/", "note": "Real-time collaborative spreadsheet" },
+          { "name": "dSheets", "url": "https://dsheets.new/", "note": "Alternative to Google Sheets & Excel" },
+          { "name": "AFFiNE", "url": "https://affine.pro/", "note": "Next-gen knowledge base" },
+          { "name": "Logseq", "url": "https://logseq.com/", "note": "Privacy-first knowledge management platform" },
+          { "name": "Linwood Butterfly", "url": "https://web.butterfly.linwood.dev/", "note": "Open source note-taking app" },
+          { "name": "ReadLocal", "url": "https://readlocal.app/", "note": "Markdown reader for local files & folders" }
+        ]
+      },
+      {
+        "title": "E-Book Readers",
+        "items": [
+          { "name": "Koodo Reader", "url": "https://web.koodoreader.com/", "note": "Ebook manager and reader" },
+          { "name": "OpenReader", "url": "https://openreader.richardr.dev/app", "note": "TTS document reader for EPUB, PDF, TXT, MD, DOCX" },
+          { "name": "Readest", "url": "https://web.readest.com/", "note": "Ebook reader for deep reading" }
+        ]
+      },
+      {
+        "title": "Resume & Career Builders",
+        "items": [
+          { "name": "Resume Nation", "url": "https://resume-nation.github.io", "note": "Offline resume builder" },
+          { "name": "Tailit", "url": "https://tailit.xyz/", "note": "AI resume rewriter for job descriptions" },
+          { "name": "Lanjut", "url": "https://lanjut.rimzzlabs.com", "note": "ATS-Friendly Resume Builder" },
+          { "name": "EasyPeasyCV", "url": "https://easypeasycv.com/", "note": "Privacy-first resume builder" },
+          { "name": "Free CV Builder", "url": "https://buildmyfree.cv/", "note": "Build professional CV to PDF" },
+          { "name": "Universal Résumé Template", "url": "https://universalresume.app/?s=g", "note": "Minimal CV template" }
+        ]
+      }
+    ]
+  },
+    {
+    "title": "Privacy, Security & File Sharing",
+    "groups": [
+      {
+        "title": "Privacy, Encryption & Forensics",
+        "items": [
+          { "name": "privacy.sexy", "url": "https://privacy.sexy", "note": "Enforce privacy best-practices across OS" },
+          { "name": "Cryptii", "url": "https://cryptii.com", "note": "Modular conversion, encoding, and encryption" },
+          { "name": "CyberChef", "url": "https://gchq.github.io/CyberChef/", "note": "Cyber workbench for encoding, decoding, encryption" },
+          { "name": "Cryptgeon", "url": "https://cryptgeon.com/", "note": "Fully encrypted self-destructing notes or files" },
+          { "name": "Enclosed", "url": "https://enclosed.cc/", "note": "Encrypted notes and files" },
+          { "name": "kPaste", "url": "https://kpaste.infomaniak.com/", "note": "Private end-to-end encrypted pastebin" },
+          { "name": "ente Paste", "url": "https://paste.ente.com/", "note": "Share text between devices securely" },
+          { "name": "xipe", "url": "https://xi.pe/", "note": "URL shortener and pastebin service" },
+          { "name": "katb.in", "url": "https://katb.in/", "note": "Share text & logs with a short URL" },
+          { "name": "BinThere", "url": "https://binthere.gaury.dev/", "note": "Self-destructing read-once notes" },
+          { "name": "ProtegeMiDNI", "url": "https://protegemidni.es", "note": "Redact info from Spanish ID" },
+          { "name": "Metadata Remover", "url": "https://ianonymous3000.github.io/metadata-remover/", "note": "Removes file metadata via WASM" },
+          { "name": "image-scrubber", "url": "https://everestpipkin.github.io/image-scrubber/", "note": "Anonymize photographs taken at protests" },
+          { "name": "ShareClean", "url": "https://omarh-creator.github.io/ShareClean/#playground", "note": "Sanitize logs, stack traces, and configs" },
+          { "name": "Aperi'Solve", "url": "https://www.aperisolve.com/", "note": "Image metadata and forensics analysis tool" },
+          { "name": "QRazyBox", "url": "https://merricx.github.io/qrazybox/", "note": "Analyze and recover damaged QR Codes" }
+        ]
+      },
+      {
+        "title": "File Transfer & P2P Sharing",
+        "items": [
+          { "name": "filetransfer.io", "url": "https://filetransfer.io/", "note": "" },
+          { "name": "file.pizza", "url": "https://file.pizza/", "note": "" },
+          { "name": "offlinesharing.com", "url": "https://offlinesharing.com/", "note": "File Sharing Site" },
+          { "name": "PairDrop", "url": "https://pairdrop.net/", "note": "Cross-Platform file transfer" },
+          { "name": "LocalSend-Web", "url": "https://web.localsend.org/", "note": "AirDrop alternative for LAN" },
+          { "name": "FileDrop", "url": "https://drop.lol/", "note": "Encrypted P2P file transfer and chat" },
+          { "name": "Sharr", "url": "https://www.sharrr.com/", "note": "End-to-end encrypted file transfer" },
+          { "name": "DropSilk", "url": "https://www.dropsilk.xyz/", "note": "P2P WebRTC file transfer with screen share" },
+          { "name": "zkdrop", "url": "https://zkdrop.org", "note": "Zero-knowledge encryption file sharing" },
+          { "name": "Giraffile", "url": "https://giraffile.pages.dev/", "note": "Serverless secure file sharing" },
+          { "name": "qTransfer", "url": "https://transfer-cv5.pages.dev/", "note": "Connect 2 browsers to transfer files" },
+          { "name": "Relay", "url": "https://relay.rishishah.in", "note": "WebRTC peer-to-peer file transfer" },
+          { "name": "e2ecp", "url": "https://e2ecp.com", "note": "Encrypted file transfer via web/CLI" },
+          { "name": "Croc", "url": "https://getcroc.com/", "note": "Send things securely between computers" },
+          { "name": "ErikrafT Drop", "url": "https://drop.erikraft.com/", "note": "File-transfer supporting Tor and LAN" },
+          { "name": "Clip Fish", "url": "https://clip.fish/", "note": "App for sharing links, text, and files" }
+        ]
+      },
+      {
+        "title": "Cybersecurity Learning Resources",
+        "items": [
+          { "name": "hacksplaining", "url": "https://www.hacksplaining.com/lessons", "note": "" },
+          { "name": "tryhackme.com", "url": "https://tryhackme.com/", "note": "Cybersecurity training" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Learning, Education & Career",
+    "groups": [
+      {
+        "title": "Educational Content & Roadmaps",
+        "items": [
+          { "name": "Agora Cosmica", "url": "https://agoracosmica.org", "note": "Learn from 30 historical figures via AI" },
+          { "name": "Full Stack open", "url": "https://fullstackopen.com/en/", "note": "Learn React, Redux, Node, GraphQL, TS" },
+          { "name": "The Missing Manual", "url": "https://themissingmanual.dev", "note": "Guides on CS fundamentals, OS, AI" },
+          { "name": "Roadmaps.sh", "url": "https://roadmap.sh/", "note": "Interactive roadmaps for developers" },
+          { "name": "Quizbun", "url": "https://a-dev.github.io/quizbun/", "note": "Explanation-first quiz catalog" },
+          { "name": "projectlearn.io", "url": "https://projectlearn.io/", "note": "" },
+          { "name": "joshwcomeau.com", "url": "https://www.joshwcomeau.com/", "note": "CSS & Frontend tutorials" },
+          { "name": "mlu-explain.github.io", "url": "https://mlu-explain.github.io/", "note": "Visual AI explanation" }
+        ]
+      },
+      {
+        "title": "Cheatsheets & Visualizers",
+        "items": [
+          { "name": "overapi.com", "url": "https://overapi.com/", "note": "" },
+          { "name": "quickref.me", "url": "https://quickref.me/", "note": "" },
+          { "name": "cheatography.com", "url": "https://cheatography.com/", "note": "" },
+          { "name": "devdocs.io", "url": "https://devdocs.io/", "note": "" },
+          { "name": "bigocheatsheet", "url": "https://www.bigocheatsheet.com/", "note": "" },
+          { "name": "pythontutor.com", "url": "https://pythontutor.com/", "note": "" },
+          { "name": "visualgo.net", "url": "https://visualgo.net/en", "note": "" },
+          { "name": "jsv9000.app", "url": "https://www.jsv9000.app/", "note": "JavaScript event loop visualizer" },
+          { "name": "Algorithm Visualizer", "url": "https://algorithm-visualizer.org/", "note": "Visualize algorithms from code" }
+        ]
+      },
+      {
+        "title": "Mathematics & Science",
+        "items": [
+          { "name": "seeing-theory.brown.edu", "url": "https://seeing-theory.brown.edu/", "note": "" },
+          { "name": "cymath.com", "url": "https://www.cymath.com/", "note": "Math problem solver" }
+        ]
+      },
+      {
+        "title": "Interview Prep & Job Search",
+        "items": [
+          { "name": "DopplerHQ", "url": "https://github.com/DopplerHQ/awesome-interview-questions?tab=readme-ov-file", "note": "" },
+          { "name": "greatfrontend.com", "url": "https://www.greatfrontend.com/", "note": "" },
+          { "name": "systemdesign.io", "url": "https://systemdesign.io/", "note": "System Design questions" },
+          { "name": "instahyre.com", "url": "https://www.instahyre.com/", "note": "" },
+          { "name": "timesjobs.com", "url": "https://www.timesjobs.com/", "note": "" },
+          { "name": "freshersworld.com", "url": "https://www.freshersworld.com/", "note": "" },
+          { "name": "workindia.in", "url": "https://www.workindia.in/", "note": "" },
+          { "name": "offcampusjobs4u", "url": "https://offcampusjobs4u.com/", "note": "" },
+          { "name": "freshersnow", "url": "https://www.freshersnow.com/", "note": "" },
+          { "name": "abcconsultants", "url": "https://www.abcconsultants.in/", "note": "" },
+          { "name": "tophire", "url": "https://tophire.co/", "note": "" },
+          { "name": "sutrahr", "url": "https://www.sutrahr.com/", "note": "" },
+          { "name": "adecco", "url": "https://www.adecco.com/", "note": "" },
+          { "name": "Jobber", "url": "https://rssjobs.app/", "note": "Dynamic Job Search RSS Feed Generator" }
+        ]
+      },
+      {
+        "title": "Hackathons & Bounties",
+        "items": [
+          { "name": "devfolio.co", "url": "https://devfolio.co/", "note": "" },
+          { "name": "devpost.com", "url": "https://devpost.com/", "note": "" },
+          { "name": "Major League Hacking", "url": "https://mlh.io/", "note": "" },
+          { "name": "dorahacks.io", "url": "https://dorahacks.io/", "note": "" },
+          { "name": "smart India hackathons", "url": "https://www.sih.gov.in/", "note": "" },
+          { "name": "hackerearth.com", "url": "https://www.hackerearth.com/for-developers/", "note": "" },
+          { "name": "bountycaster.xyz", "url": "https://www.bountycaster.xyz/", "note": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Data, Analytics & Web Monitoring",
+    "groups": [
+      {
+        "title": "Data Visualization & Analysis",
+        "items": [
+          { "name": "Datasette Lite", "url": "https://lite.datasette.io", "note": "Datasette Python web application in browser" },
+          { "name": "RAWGraphs", "url": "https://app.rawgraphs.io", "note": "Create custom vector visualizations" },
+          { "name": "Mr. Data Converter", "url": "https://shancarter.github.io/mr-data-converter/", "note": "Convert CSV to JSON, XML, and web formats" },
+          { "name": "CSV Repair", "url": "https://www.csv.repair/", "note": "Analyze, query, and repair oversized CSV files" }
+        ]
+      },
+      {
+        "title": "Global Intelligence & Web Tools",
+        "items": [
+          { "name": "World Monitor", "url": "https://www.worldmonitor.app/", "note": "Real-time global intelligence dashboard" },
+          { "name": "Satvisor", "url": "https://satvisor.com/", "note": "3D satellite tracker with orbit visualization" },
+          { "name": "OSINT Framework", "url": "https://osintframework.com/", "note": "Directory of OSINT investigation tools" },
+          { "name": "Rosint+", "url": "https://rosintplus.github.io/", "note": "View deleted reddit posts and profile stats" },
+          { "name": "Grade Boundaries", "url": "https://gradeboundaries.com", "note": "A level and IGCSE grade boundary lookup" },
+          { "name": "App Store Web Search", "url": "https://vexelon.net/asws", "note": "Search Apple App Store metadata" },
+          { "name": "sitelike.org", "url": "https://www.sitelike.org/", "note": "Find similar websites" },
+          { "name": "web.archive.org", "url": "https://web.archive.org/", "note": "WayBackMachine" },
+          { "name": "deadlinkchecker.com", "url": "https://www.deadlinkchecker.com/", "note": "Broken link checker" }
+        ]
+      }
+    ]
+  },
+    {
+    "title": "Design Inspiration & Discovery",
+    "groups": [
+      {
+        "title": "Design Portfolios & Showcases",
+        "items": [
+          { "name": "godly.website", "url": "https://godly.website/", "note": "" },
+          { "name": "lapa.ninja", "url": "https://www.lapa.ninja/", "note": "" },
+          { "name": "minimal.gallery", "url": "https://minimal.gallery/", "note": "" },
+          { "name": "httpster.net", "url": "https://httpster.net/", "note": "" },
+          { "name": "mobbin.com", "url": "https://mobbin.com/", "note": "" },
+          { "name": "awwwards", "url": "https://www.awwwards.com/", "note": "" },
+          { "name": "onepagelove.com", "url": "https://onepagelove.com/inspiration", "note": "" },
+          { "name": "land-book", "url": "https://land-book.com/", "note": "" },
+          { "name": "landingfolio", "url": "https://www.landingfolio.com/", "note": "" },
+          { "name": "60fps.design", "url": "https://60fps.design/", "note": "" },
+          { "name": "dribbble", "url": "https://dribbble.com/", "note": "" },
+          { "name": "designspells", "url": "https://www.designspells.com/", "note": "" },
+          { "name": "elegantflyer.com", "url": "https://www.elegantflyer.com/", "note": "Inspiration posters" },
+          { "name": "cofolios.com", "url": "https://www.cofolios.com/", "note": "Intern portfolios at top tech companies" },
+          { "name": "Openhero", "url": "https://openhero.art/", "note": "Cinematic video hero sections" },
+          { "name": "htmlrev.com", "url": "https://htmlrev.com/", "note": "HTML, React, and other website templates" },
+          { "name": "logggos", "url": "https://www.logggos.club/", "note": "" },
+          { "name": "logobook", "url": "http://logobook.com/", "note": "" }
+        ]
+      },
+      {
+        "title": "Resource Aggregators",
+        "items": [
+          { "name": "toools.design", "url": "https://www.toools.design/", "note": "Many Tools" },
+          { "name": "10015.io", "url": "https://10015.io/", "note": "Many Tools" },
+          { "name": "resource.fyi", "url": "https://resource.fyi/", "note": "Many Tools" },
+          { "name": "uigoodies.com", "url": "https://uigoodies.com/", "note": "Many Tools" },
+          { "name": "anyrec.io", "url": "https://www.anyrec.io/", "note": "Many Tools" },
+          { "name": "OmniTools", "url": "https://omnitools.app/", "note": "Web-based tools for everyday tasks" },
+          { "name": "ToolsAtZero", "url": "https://www.toolsatzero.com/", "note": "Workbench of 52 everyday utilities" },
+          { "name": "free-for.dev", "url": "https://free-for.dev/#/", "note": "SaaS, PaaS, IaaS offerings with free tiers" },
+          { "name": "freemediaheckyeah", "url": "https://fmhy.net/", "note": "Largest collection of free web resources" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Productivity, Lifestyle & Miscellaneous",
+    "groups": [
+      {
+        "title": "Productivity & Collaboration",
+        "items": [
+          { "name": "QuickRetro", "url": "https://quickretro.app/", "note": "Conduct remote sprint retrospectives" },
+          { "name": "MiroTalk P2P", "url": "https://p2p.mirotalk.com/", "note": "WebRTC P2P video conferencing" },
+          { "name": "Tomodoro", "url": "https://lazy-guy.github.io/tomodoro/", "note": "Pomodoro web app with PIP and white noise" },
+          { "name": "DoHabit", "url": "https://dohabit.app/", "note": "Local-first habit tracker" },
+          { "name": "Monkeytype", "url": "https://monkeytype.com/", "note": "Customizable typing speed test site" },
+          { "name": "Spliit", "url": "https://spliit.app/", "note": "Share expenses with friends and family" },
+          { "name": "Ul0", "url": "https://ul0.site", "note": "URL shortener with analytics and QR codes" },
+          { "name": "shorturl.at", "url": "https://www.shorturl.at/", "note": "" },
+          { "name": "OwnCardly", "url": "https://owncardly.com/", "note": "Digital business cards" }
+        ]
+      },
+      {
+        "title": "Hardware, Customization & Gaming",
+        "items": [
+          { "name": "sweezy-cursors.com", "url": "https://sweezy-cursors.com/", "note": "" },
+          { "name": "Terminal.sexy", "url": "https://terminal.sexy", "note": "Terminal theme designer" },
+          { "name": "Windhawk", "url": "https://windhawk.net/", "note": "Customization marketplace for Windows" },
+          { "name": "Open-RazerKit", "url": "https://hamzayslmn.github.io/open-razerkit/", "note": "Control Razer device RGB and settings" },
+          { "name": "Rom Patcher JS", "url": "https://www.marcrobledo.com/RomPatcher.js/", "note": "ROM patcher in JavaScript" },
+          { "name": "BottleShip", "url": "https://bottleship.pages.dev/", "note": "Run classic Windows games in browser" },
+          { "name": "Gridfinity Layout Tool", "url": "https://gridfinitylayouttool.com", "note": "Modular storage drawer planning tool" },
+          { "name": "openplan3d", "url": "https://app.openplan3d.com", "note": "Design 2D floor plans and view in 3D" },
+          { "name": "Daggerheart GM Screen", "url": "https://jutier.github.io/Daggerheart/", "note": "Daggerheart GM Screen" }
+        ]
+      },
+      {
+        "title": "Health & Utilities",
+        "items": [
+          { "name": "Sarx", "url": "https://www.sarx.app", "note": "Health metrics and stats insights" },
+          { "name": "FIT Stats", "url": "https://fit.igroza.su", "note": "Analyze FIT/GPX activity tracks" },
+          { "name": "enumbers lookup", "url": "https://enumbers.jarvisdiscordbot.net/", "note": "Lookup E-number food additives" },
+          { "name": "BRouter-web", "url": "https://brouter.de/brouter-web/", "note": "OpenStreetMap route planning client" },
+          { "name": "QrCodeShow", "url": "https://qrcode.show/", "note": "Generate QR codes easily" },
+          { "name": "Oscilloscope Online V2", "url": "https://mumarshahbaz.github.io/Oscilloscope-Online-V2/setup.html", "note": "Web Serial Plotter" },
+          { "name": "Webtor.io", "url": "https://webtor.io/", "note": "Torrent streaming and file sharing" },
+          { "name": "Texturinator", "url": "https://texturinator.buttermilch-dev.de/", "note": "Procedural texture and volume generator" },
+          { "name": "Frappe Playground", "url": "https://frappe-playground.lubus.in/", "note": "WASM-powered Frappe playground" }
+        ]
+      }
+    ]
+  }
+]
